@@ -2,6 +2,8 @@
 
 Układ klawiatury Dvoraka programisty z polskimi znakami, dla systemu macOS.
 
+![schemat klawiatury](https://raw.githubusercontent.com/maxadamski/polski-dvp/master/polski_dvp-apple_wired.png)
+
 ### Instalacja
 
 ```
