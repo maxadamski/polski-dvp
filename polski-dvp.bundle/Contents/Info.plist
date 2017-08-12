@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.com.maxadamski.polski-dvp</string>
+	<key>CFBundleName</key>
+	<string>polski_dvp</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>KLInfo_Polish - Dvp</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.com.maxadamski.polski-dvp.polish-dvp</string>
+		<key>TISIntendedLanguage</key>
+		<string>pl-PL</string>
+	</dict>
+</dict>
+</plist>
