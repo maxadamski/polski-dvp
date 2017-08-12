@@ -5,7 +5,7 @@ Układ klawiatury Dvoraka programisty z polskimi znakami, dla systemu macOS.
 ### Instalacja
 
 ```
-cp "polski-dvp.bundle" "/Library/Keyboard Layouts/com.maxadamski.polski-dvp.bundle"
+cp -R "polski-dvp.bundle" "/Library/Keyboard Layouts/com.maxadamski.polski-dvp.bundle"
 ```
 
 ### Edycja
